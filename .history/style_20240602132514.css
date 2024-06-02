@@ -27,8 +27,6 @@ canvas {
   video {
     max-width: 90%;
     max-height: auto;
-    width: 420;
-    height: 260;
   }
 }
 
@@ -36,7 +34,5 @@ canvas {
   video {
     max-width: 100%;
     max-height: auto;
-    width: 120;
-    height: 260;
   }
 }
