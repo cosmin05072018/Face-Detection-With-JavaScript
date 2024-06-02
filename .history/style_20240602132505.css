@@ -27,12 +27,3 @@ canvas {
   video {
     max-width: 90%;
     max-height: auto;
-  }
-}
-
-@media (max-width: 480px) {
-  video {
-    max-width: 100%;
-    max-height: auto;
-  }
-}
